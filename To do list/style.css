@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+[data-done="true"] {
+    text-decoration: line-through;
+    color: grey;
+}
